@@ -1,0 +1,3 @@
+As it's mainly a quick tool done by me for me, so don't bother.
+Just clone it or fork it, but I highly doubt what you want to add is what I want to add.
+You can always do a pull request, but don't keep your hope high.

@@ -1,0 +1,2 @@
+# pip install -r requirements.txt 
+Pillow>=8.1.0

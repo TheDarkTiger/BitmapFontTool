@@ -1,0 +1,10 @@
+Bitmap Font Tools
+Med	Add font converter (to other formats and C)
+Low	Structure as libs to better share code
+Low	Add a Tk GUI?
+
+BFTwriter:
+Med	Add more option for generation/loading
+Med	Add json font loading
+Med	Check if it works on Linux
+Low	Add other formats maybe?

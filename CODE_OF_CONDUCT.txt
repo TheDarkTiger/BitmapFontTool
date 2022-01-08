@@ -1,0 +1,7 @@
+Code of Conduct
+
+Respect the next coder by delivering clean code.
+Respect yourself by delivering clean code.
+If someone is mean to you, well, don't take it personaly. Understand why this someone have this atitude, and act acordingly (that means NOT by being mean to this someone, but by being kind and supportive. You can never know other people's life.).
+No alphabet soup here. This is a code repository, not a political tribune nor your personal blog. I don't care about what you think or who you like to share intimate moments with.
+Be happy. Code for pleasure and learning, not by obligation. A happy life is all I can wish to (you).
